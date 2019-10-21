@@ -12,6 +12,6 @@ Presentaciones de las charlas contribuidas realizadas dentro del Programa de Pl�
 * [*¿Cómo aprender algo nuevo desde cero?*](https://github.com/ajcyucatan/platicas/blob/master/%40aprender_algo_nuevo.pdf), por Santiago Vales.
 * [*Un acercamiento a cómo la corteza cerebral procesa la información*](https://github.com/ajcyucatan/platicas/blob/master/%40como_la_corteza_cerebral_procesa_informacion.pdf), por Jerónimo Zizumbo.
 * [*¿Cómo cosechar tu propia energía?*](https://github.com/ajcyucatan/platicas/blob/master/%40cosechar_tu_propia_energia.pdf), por Aarón Hernández y Paola Pérez.
-* [*¡Qué hongo! Más allá de los champiñones*](https://github.com/ajcyucatan/platicas/blob/master/%40hongo_mas_alla_de_los_champinones.pdf), por Michael Uitzil.
+* [*¡Qué hongo! Más allá de los champiñones*](https://github.com/ajcyucatan/platicas/blob/master/%40mas_alla_de_los_champinones.pdf), por Michael Uitzil.
 * [*¿Inteligencia Artificial?*](https://github.com/ajcyucatan/platicas/blob/master/%40inteligencia_artificial.pdf), por Jorge A. F. Núñez.
 * [*Virus: Secuestradores de maquinaria celular*](https://github.com/ajcyucatan/platicas/blob/master/%40virus_secuestradores_maquinaria_celular.pdf), por Ciro Gorocica.
