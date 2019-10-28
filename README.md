@@ -1,9 +1,9 @@
 # Pláticas
 ![GitHub last commit](https://img.shields.io/github/last-commit/ajcyucatan/platicas?style=for-the-badge) <br>
 ![GitHub repo size](https://img.shields.io/github/repo-size/ajcyucatan/platicas?style=for-the-badge) <br>
-[![forthebadge cc-by](http://ForTheBadge.com/images/badges/cc-by.svg)](https://creativecommons.org/licenses/by/4.0)
+[![forthebadge](https://forthebadge.com/images/badges/cc-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Created by Asociación Juvenil de Ciencia Yucatán 2019 All content contained in this repository is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/ "CC BY 4.0").
+Created by Asociación Juvenil de Ciencia Yucatán 2019 All content contained in this repository is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0").
 
 Presentaciones de las charlas contribuidas realizadas dentro del Programa de Pláticas y Talleres de la Asociación Juvenil de Ciencia Yucatán.
 
