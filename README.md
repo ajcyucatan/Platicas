@@ -1,8 +1,8 @@
 # Pláticas
-[![GitHub repo size](https://img.shields.io/github/repo-size/jaflonu/ssm2019?style=popout-square)](https://github.com/jaflonu/ssm2019.git)
-[![GitHub last commit](https://img.shields.io/github/last-commit/jaflonu/ssm2019?style=popout-square)](https://github.com/jaflonu/ssm2019/commits/master)
-[![GitHub issues](https://img.shields.io/github/issues/jaflonu/ssm2019?style=popout-square)](https://github.com/jaflonu/ssm2019/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/jaflonu/ssm2019?style=popout-square)](https://github.com/jaflonu/ssm2019/pull)
+[![GitHub repo size](https://img.shields.io/github/repo-size/ajcyucatan/platicas?style=popout-square)](https://github.com/ajcyucatan/platicas.git)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ajcyucatan/platicas?style=popout-square)](https://github.com/ajcyucatan/platicas/commits/master)
+[![GitHub issues](https://img.shields.io/github/issues/ajcyucatan/platicas?style=popout-square)](https://github.com/ajcyucatan/platicas/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/ajcyucatan/platicas?style=popout-square)](https://github.com/ajcyucatan/platicas/pull)
 
 Presentaciones de las charlas contribuidas realizadas dentro del Programa de Pláticas y Talleres de la Asociación Juvenil de Ciencia Yucatán.
 
@@ -17,8 +17,8 @@ Presentaciones de las charlas contribuidas realizadas dentro del Programa de Pl�
 * [*Virus: Secuestradores de maquinaria celular*](https://github.com/ajcyucatan/platicas/blob/master/%40virus_secuestradores_maquinaria_celular.pdf), por Ciro Gorocica.
 
 
-## Attributions
+## Ascription
 
-Created by Asociación Juvenil de Ciencia Yucatán, 2019. All content contained in this repository is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0 "CC BY-NC-SA 4.0"). The code is free and open source, released under [The MIT License](https://mit-license.org "The MIT License").
+Created by Asociación Juvenil de Ciencia Yucatán, 2019. All content contained in this repository is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0 "CC BY-NC-SA 4.0").
 
 [![CC](http://forthebadge.com/images/badges/cc-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0 "CC BY-NC-SA 4.0")
