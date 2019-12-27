@@ -7,7 +7,7 @@
 Presentaciones de las charlas contribuidas realizadas dentro del Programa de Pláticas y Talleres de la Asociación Juvenil de Ciencia Yucatán.
 
 
-## Contribuciones
+## Gist
 * [Aperología: La ciencia de las peras y manzanas](https://github.com/ajcyucatan/platicas/blob/master/%40aperologia_la_ciencia_de_las_peras_y_manzanas.pdf) - Guillermo Flota
 * [¿Cómo aprender algo nuevo desde cero?](https://github.com/ajcyucatan/platicas/blob/master/%40aprender_algo_nuevo.pdf) - Santiago Vales
 * [Un acercamiento a cómo la corteza cerebral procesa información](https://github.com/ajcyucatan/platicas/blob/master/%40como_la_corteza_cerebral_procesa_informacion.pdf) - Jerónimo Zizumbo
