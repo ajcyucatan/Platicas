@@ -1,9 +1,8 @@
 # Pláticas
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/ajcyucatan/platicas?style=popout-square)](https://github.com/ajcyucatan/platicas.git)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ajcyucatan/platicas?style=popout-square)](https://github.com/ajcyucatan/platicas/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/ajcyucatan/platicas?style=popout-square)](https://github.com/ajcyucatan/platicas.git)
 [![GitHub issues](https://img.shields.io/github/issues/ajcyucatan/platicas?style=popout-square)](https://github.com/ajcyucatan/platicas/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/ajcyucatan/platicas?style=popout-square)](https://github.com/ajcyucatan/platicas/pull)
 
 Presentaciones de las charlas contribuidas realizadas dentro del Programa de Pláticas y Talleres de la Asociación Juvenil de Ciencia Yucatán.
 
