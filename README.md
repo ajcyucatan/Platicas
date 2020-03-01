@@ -17,7 +17,7 @@ Presentaciones de las charlas contribuidas realizadas dentro del Programa de Pl√
 * [Virus: Secuestradores de maquinaria celular](https://github.com/ajcyucatan/platicas/blob/master/%40virus_secuestradores_maquinaria_celular.pdf) - Ciro Gorocica
 
 
-### Ascription
+### License
 
 [![CC](http://forthebadge.com/images/badges/cc-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0 "CC BY-NC-SA 4.0")
 
