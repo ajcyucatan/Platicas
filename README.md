@@ -2,7 +2,6 @@
 
 [![Last Commit](https://img.shields.io/github/last-commit/ajcyucatan/platicas?style=popout-square)](https://github.com/ajcyucatan/platicas/commits/master "Last Commit")
 [![Repo Size](https://img.shields.io/github/repo-size/ajcyucatan/platicas?style=popout-square)](https://github.com/ajcyucatan/platicas.git "Repo Size")
-[![Issues](https://img.shields.io/github/issues/ajcyucatan/platicas?style=popout-square)](https://github.com/ajcyucatan/platicas/issues "Issues")
 
 Presentaciones de algunas charlas contribuidas realizadas dentro del Programa de Pláticas y Talleres de la Asociación Juvenil de Ciencia Yucatán.
 
@@ -17,8 +16,8 @@ Presentaciones de algunas charlas contribuidas realizadas dentro del Programa de
 * [¿Inteligencia Artificial?](https://github.com/ajcyucatan/platicas/blob/master/%40inteligencia_artificial.pdf) - Jorge A. F. Núñez
 * [Virus: Secuestradores de maquinaria celular](https://github.com/ajcyucatan/platicas/blob/master/%40virus_secuestradores_maquinaria_celular.pdf) - Ciro Gorocica
 
-## License
+## Licencia
 
-[![CC](http://forthebadge.com/images/badges/cc-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0 "CC BY-NC-SA 4.0")
+[![CC-BY-NC-SA](http://forthebadge.com/images/badges/cc-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0 "CC BY-NC-SA 4.0")
 
-The content in this repository is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).
+El contenido de este repositorio está publicado bajo la licencia [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).
