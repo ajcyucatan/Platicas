@@ -1,6 +1,5 @@
 # Pláticas
 
-[![CC-BY-NC-SA](https://img.shields.io/badge/CC-BY--NC--SA-lightgrey?style=popout-square)](https://creativecommons.org/licenses/by-nc-sa/4.0 "CC BY-NC-SA 4.0")
 [![Last Commit](https://img.shields.io/github/last-commit/ajcyucatan/platicas?style=popout-square)](https://github.com/ajcyucatan/platicas/commits/master "Last Commit")
 [![Repo Size](https://img.shields.io/github/repo-size/ajcyucatan/platicas?style=popout-square)](https://github.com/ajcyucatan/platicas.git "Repo Size")
 
