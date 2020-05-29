@@ -13,8 +13,9 @@ Presentaciones de algunas charlas contribuidas realizadas dentro del Programa de
 * [Un acercamiento a cómo la corteza cerebral procesa información](https://github.com/ajcyucatan/platicas/blob/master/%40como_la_corteza_cerebral_procesa_informacion.pdf) - Jerónimo Zizumbo
 * [¿Cómo cosechar tu propia energía?](https://github.com/ajcyucatan/platicas/blob/master/%40cosechar_tu_propia_energia.pdf) - Aarón Hernández y Paola Pérez
 * [¡Qué hongo! Más allá de los champiñones](https://github.com/ajcyucatan/platicas/blob/master/%40mas_alla_de_los_champinones.pdf) - Michael Uitzil
-* [¿Inteligencia Artificial?](https://github.com/ajcyucatan/platicas/blob/master/%40inteligencia_artificial.pdf) - Jorge A. F. Núñez
+* [¿Inteligencia Artificial?](https://github.com/ajcyucatan/platicas/blob/master/%40inteligencia_artificial.pdf) - Jorge A. Flores
 * [Virus: Secuestradores de maquinaria celular](https://github.com/ajcyucatan/platicas/blob/master/%40virus_secuestradores_maquinaria_celular.pdf) - Ciro Gorocica
+
 
 ## Licencia
 
