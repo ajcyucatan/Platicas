@@ -1,5 +1,6 @@
 # Pláticas
 
+[![License](https://img.shields.io/github/license/ajcyucatan/platicas?style=popout-square)](https://github.com/ajcyucatan/platicas/blob/master/LICENSE "License")
 [![Last Commit](https://img.shields.io/github/last-commit/ajcyucatan/platicas?style=popout-square)](https://github.com/ajcyucatan/platicas/commits/master "Last Commit")
 [![Repo Size](https://img.shields.io/github/repo-size/ajcyucatan/platicas?style=popout-square)](https://github.com/ajcyucatan/platicas.git "Repo Size")
 
