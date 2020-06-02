@@ -19,4 +19,4 @@ Presentaciones de algunas charlas contribuidas realizadas dentro del Programa de
 
 ## Licencia
 
-El contenido de este repositorio está publicado bajo la licencia [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0).
+El contenido de este repositorio está publicado bajo la licencia [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
