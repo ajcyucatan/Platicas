@@ -9,7 +9,7 @@ Presentaciones de algunas charlas contribuidas realizadas dentro del Programa de
 
 ## Contenido
 
-* [Aperología: La ciencia de las peras y manzanas](https://github.com/ajcyucatan/platicas/blob/master/%40aperologia_la_ciencia_de_las_peras_y_manzanas.pdf) - Guillermo Flota
+* [Aperología: La ciencia de las peras y manzanas](https://github.com/ajcyucatan/platicas/blob/master/%40aperologia_la_ciencia_de_las_peras_y_manzanas.pdf). Guillermo Flota, *Facultad de Matemáticas, Universidad Autónoma de Yucatán*.
 * [¿Cómo aprender algo nuevo desde cero?](https://github.com/ajcyucatan/platicas/blob/master/%40aprender_algo_nuevo.pdf) - Santiago Vales
 * [Un acercamiento a cómo la corteza cerebral procesa información](https://github.com/ajcyucatan/platicas/blob/master/%40como_la_corteza_cerebral_procesa_informacion.pdf) - Jerónimo Zizumbo
 * [¿Cómo cosechar tu propia energía?](https://github.com/ajcyucatan/platicas/blob/master/%40cosechar_tu_propia_energia.pdf) - Aarón Hernández y Paola Pérez
